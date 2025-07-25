@@ -1,3 +1,5 @@
+Dependencies: ND Core ND MDT OX Lib 
+
 -Fully Configurable
 
 -Add Store Locations Yourself 
@@ -6,7 +8,4 @@
 
 -Fully Compatible With ND MDT 
 
-
-
-Dependencies: ND Core ND MDT OX Lib 
 
