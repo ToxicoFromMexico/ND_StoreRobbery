@@ -1,4 +1,4 @@
-Dependencies: ND Core ND MDT OX Lib 
+Dependencies: ND Core - ND MDT - OX Lib 
 
 -Fully Configurable
 
