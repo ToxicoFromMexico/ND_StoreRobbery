@@ -1,13 +1,12 @@
-A simple configurable script to rob shops all over the map for ND Core.
+-Fully Configurable
 
-Features:
-fully configurable
-add store locations yourself
-multiple language options
-fully compatible with ND MDT
+-Add Store Locations Yourself 
 
-Dependencies:
-ND Core
-ND MDT
-OX Lib
+-Multiple Language Options 
+
+-Fully Compatible With ND MDT 
+
+
+
+Dependencies: ND Core ND MDT OX Lib 
 
