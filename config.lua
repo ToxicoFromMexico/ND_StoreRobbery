@@ -1,14 +1,15 @@
 config = {
+    language = "de", -- de=german / en=english / cs=custom
 
-	language = "de", -- de=german / en=english / cs=custom
+    timeToRob = 1, -- In minutes (5 minutes standard)
+    robberyCooldown = 15, -- In minutes (15 minutes standard)
 
-	timeToRob = 5, -- In minutes (5 minutes standard)
-	robberyCooldown = 15, -- In minutes (15 minutes standard)
-
-    useRandomReward = true, -- true = random, false = fix
-    fixedReward = 10000, -- fixed reward if = false
-    minReward = 2000, -- minimum random reward
-    maxReward = 10000, -- maximum random reward
+    robbery = {
+        useRandomReward = true, -- true = random, false = fix
+        fixedReward = 10000, -- fixed reward if = false
+        minReward = 2000, -- minimum random reward
+        maxReward = 10000, -- maximum random reward
+    },
 
 	shopcoords = { -- Coordinates of the robbable stores
 		{name = "24/7 Senora Fwy // Mount Chilliad Robbery",

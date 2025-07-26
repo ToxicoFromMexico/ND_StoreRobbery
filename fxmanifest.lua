@@ -16,3 +16,7 @@ client_scripts {
 server_scripts {
     'script/server.lua' --code
 }
+
+files {
+    'locales/*.lua' -- languages
+}
